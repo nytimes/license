@@ -1,6 +1,6 @@
 Apache 2.0 license for The New York Times
 =======
 
-Code open-sourced under the NYTimes GitHub account needs a license. Apache 2.0 is our default.
+Repos open sourced under the NYTimes GitHub account is licensed under Apache 2.0 by default.
 
-You'll find our license language in the [LICENSE.md file](https://github.com/NYTimes/license/blob/master/LICENSE.md).
+If you are releasing a project into GitHub:NYTimes, please clone [LICENSE.md file](https://github.com/NYTimes/license/blob/master/LICENSE.md) into your repo.
